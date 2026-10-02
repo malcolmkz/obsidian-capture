@@ -51,3 +51,4 @@ A few sample notes (tagged `example`, from the starship Enterprise) show how it 
 Plain Markdown files on your computer. Nothing leaves it except what your AI tool reads. People notes hold work facts only.
 # obsidian-capture
 # obsidian-capture
+# obsidian-capture
