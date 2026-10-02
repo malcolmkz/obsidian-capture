@@ -52,3 +52,4 @@ Plain Markdown files on your computer. Nothing leaves it except what your AI too
 # obsidian-capture
 # obsidian-capture
 # obsidian-capture
+# obsidian-capture
